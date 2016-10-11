@@ -1,7 +1,7 @@
 // Schlosser generator
 
 var cupTeam = [{
-  name: 'Динамо',
+  name: 'Dynamo',
   skill: 4
 }, {
   name: 'Шахтер',
